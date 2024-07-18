@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/2a/31/fd/2a31fd31c567d79caf95c1c2325bdcd1.gif)]
+![MasterHead](https://i.pinimg.com/originals/2a/31/fd/2a31fd31c567d79caf95c1c2325bdcd1.gif)
 
 <h1 align="center">Hi 👋, I'm Tushar Sawant</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
